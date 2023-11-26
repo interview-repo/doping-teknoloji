@@ -1,0 +1,337 @@
+{
+    "id": 1,
+    "lesson": "Türkçe",
+    "title": "Konu Tarama Testi",
+    "questions": [
+        {
+            "question": "<p>Şiirlerinde ölçüye, uyağa büyük özen göstermiş, sade bir dil kullanmış; ...................... bunlar onu iyi bir şair saymamız için yeterli olamıyor.</p><p><b>Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilemez?</b></p>",
+            "options": {
+                "A": "ne var ki",
+                "B": "ne yazık ki",
+                "C": "gel gör ki",
+                "D": "oysaki",
+                "E": "varsayalım ki"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "<p>I. Ağlar, balıkçılar tarafından bir bir çekiliyordu.</p><p>II. Satılan mallar kaliteli olmadığından müşteriler dükkandan çekiliyordu.</p><p>III. Derste alınan notlar akşamları temize çekiliyordu.</p><p>IV. Yolda kalan kamyon bir traktörle çekildi.</p><p><b>Yukarıdaki numaralanmış cümlelerin hangilerinde `çekilmek` sözcüğünün anlamı birbirine en yakındır?</b></p>",
+            "options": {
+                "A": "I ve III",
+                "B": "I ve IV",
+                "C": "II ve III",
+                "D": "II ve IV",
+                "E": "III ve IV"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "question": "<p>Gelmeyeceğini söyleseydin, <b><u>boşu boşuna</u></b> akşama kadar beklemezdim.</p><p><b>Altı çizili bölümün bu cümleye kattığı anlam aşağıdakilerin hangisinde vardır?</b></p>",
+            "options": {
+                "A": "Çok çalıştı; ancak yine de sınıfı geçemedi.",
+                "B": "Bu zarflar bugün mutlaka postaya verilmeli.",
+                "C": "Parasının çalındığını sanıp yok yere ağladı.",
+                "D": "Erken gitti, belki de bugün hiç gelmeyecek.",
+                "E": "Elbette yardım edeceğim, ne de olsa kardeşim."
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "question": "<p>I. Tepsideki pastayı beşe ayırıp tabaklara koydu.</p><p>II. Dün yaptığı tatlılardan bana da ayırmıştı.</p><p>III. Çocuklarımın hepsini severim, birini diğerinden ayırmam.</p><p>IV. Laf taşıyarak dostları birbirinden ayırmıştı.</p><p>V. Yaşı on yediyi bulmuş, iyiyle kötüyü ayırabilecek olgunluğa erişmişti.&nbsp;</p><p><b>Yukarıdaki numaralanmış cümlelerde `ayırmak` sözcüğü kaç değişik anlamda kullanılmıştır?</b></p>",
+            "options": {
+                "A": "1",
+                "B": "2",
+                "C": "3",
+                "D": "4",
+                "E": "5"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "<p><b>`lsıtmak` sözcüğü aşağıdaki cümlelerin hangisinde mecaz anlamda kullanılmıştır?</b></p>",
+            "options": {
+                "A": "Güneş yüzünü gösterdiğinde hava aniden ısındı.",
+                "B": "Yemekleri ısıtmak için mikrodalga fırın kullanabilirsin.",
+                "C": "Sözleri karşısındakini derinden etkiledi, kalbini ısıttı.",
+                "D": "İnsanlar soğuk havalarda genellikle birbirine daha az ısınır.",
+                "E": "Sobayı yakarak odayı ısıttık."
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "<p>Şiirlerinde ölçüye, uyağa büyük özen göstermiş, sade bir dil kullanmış; ...................... bunlar onu iyi bir şair saymamız için yeterli olamıyor.</p><p><b>Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilemez?</b></p>",
+            "options": {
+                "A": "ne var ki",
+                "B": "ne yazık ki",
+                "C": "gel gör ki",
+                "D": "oysaki",
+                "E": "varsayalım ki"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "<p>I. Ağlar, balıkçılar tarafından bir bir çekiliyordu.</p><p>II. Satılan mallar kaliteli olmadığından müşteriler dükkandan çekiliyordu.</p><p>III. Derste alınan notlar akşamları temize çekiliyordu.</p><p>IV. Yolda kalan kamyon bir traktörle çekildi.</p><p><b>Yukarıdaki numaralanmış cümlelerin hangilerinde `çekilmek` sözcüğünün anlamı birbirine en yakındır?</b></p>",
+            "options": {
+                "A": "I ve III",
+                "B": "I ve IV",
+                "C": "II ve III",
+                "D": "II ve IV",
+                "E": "III ve IV"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "question": "<p>Gelmeyeceğini söyleseydin, <b><u>boşu boşuna</u></b> akşama kadar beklemezdim.</p><p><b>Altı çizili bölümün bu cümleye kattığı anlam aşağıdakilerin hangisinde vardır?</b></p>",
+            "options": {
+                "A": "Çok çalıştı; ancak yine de sınıfı geçemedi.",
+                "B": "Bu zarflar bugün mutlaka postaya verilmeli.",
+                "C": "Parasının çalındığını sanıp yok yere ağladı.",
+                "D": "Erken gitti, belki de bugün hiç gelmeyecek.",
+                "E": "Elbette yardım edeceğim, ne de olsa kardeşim."
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "question": "<p>I. Tepsideki pastayı beşe ayırıp tabaklara koydu.</p><p>II. Dün yaptığı tatlılardan bana da ayırmıştı.</p><p>III. Çocuklarımın hepsini severim, birini diğerinden ayırmam.</p><p>IV. Laf taşıyarak dostları birbirinden ayırmıştı.</p><p>V. Yaşı on yediyi bulmuş, iyiyle kötüyü ayırabilecek olgunluğa erişmişti.&nbsp;</p><p><b>Yukarıdaki numaralanmış cümlelerde `ayırmak` sözcüğü kaç değişik anlamda kullanılmıştır?</b></p>",
+            "options": {
+                "A": "1",
+                "B": "2",
+                "C": "3",
+                "D": "4",
+                "E": "5"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "<p><b>`lsıtmak` sözcüğü aşağıdaki cümlelerin hangisinde mecaz anlamda kullanılmıştır?</b></p>",
+            "options": {
+                "A": "Güneş yüzünü gösterdiğinde hava aniden ısındı.",
+                "B": "Yemekleri ısıtmak için mikrodalga fırın kullanabilirsin.",
+                "C": "Sözleri karşısındakini derinden etkiledi, kalbini ısıttı.",
+                "D": "İnsanlar soğuk havalarda genellikle birbirine daha az ısınır.",
+                "E": "Sobayı yakarak odayı ısıttık."
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "<p>Şiirlerinde ölçüye, uyağa büyük özen göstermiş, sade bir dil kullanmış; ...................... bunlar onu iyi bir şair saymamız için yeterli olamıyor.</p><p><b>Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilemez?</b></p>",
+            "options": {
+                "A": "ne var ki",
+                "B": "ne yazık ki",
+                "C": "gel gör ki",
+                "D": "oysaki",
+                "E": "varsayalım ki"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "<p>I. Ağlar, balıkçılar tarafından bir bir çekiliyordu.</p><p>II. Satılan mallar kaliteli olmadığından müşteriler dükkandan çekiliyordu.</p><p>III. Derste alınan notlar akşamları temize çekiliyordu.</p><p>IV. Yolda kalan kamyon bir traktörle çekildi.</p><p><b>Yukarıdaki numaralanmış cümlelerin hangilerinde `çekilmek` sözcüğünün anlamı birbirine en yakındır?</b></p>",
+            "options": {
+                "A": "I ve III",
+                "B": "I ve IV",
+                "C": "II ve III",
+                "D": "II ve IV",
+                "E": "III ve IV"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "question": "<p>Gelmeyeceğini söyleseydin, <b><u>boşu boşuna</u></b> akşama kadar beklemezdim.</p><p><b>Altı çizili bölümün bu cümleye kattığı anlam aşağıdakilerin hangisinde vardır?</b></p>",
+            "options": {
+                "A": "Çok çalıştı; ancak yine de sınıfı geçemedi.",
+                "B": "Bu zarflar bugün mutlaka postaya verilmeli.",
+                "C": "Parasının çalındığını sanıp yok yere ağladı.",
+                "D": "Erken gitti, belki de bugün hiç gelmeyecek.",
+                "E": "Elbette yardım edeceğim, ne de olsa kardeşim."
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "question": "<p>I. Tepsideki pastayı beşe ayırıp tabaklara koydu.</p><p>II. Dün yaptığı tatlılardan bana da ayırmıştı.</p><p>III. Çocuklarımın hepsini severim, birini diğerinden ayırmam.</p><p>IV. Laf taşıyarak dostları birbirinden ayırmıştı.</p><p>V. Yaşı on yediyi bulmuş, iyiyle kötüyü ayırabilecek olgunluğa erişmişti.&nbsp;</p><p><b>Yukarıdaki numaralanmış cümlelerde `ayırmak` sözcüğü kaç değişik anlamda kullanılmıştır?</b></p>",
+            "options": {
+                "A": "1",
+                "B": "2",
+                "C": "3",
+                "D": "4",
+                "E": "5"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "<p><b>`lsıtmak` sözcüğü aşağıdaki cümlelerin hangisinde mecaz anlamda kullanılmıştır?</b></p>",
+            "options": {
+                "A": "Güneş yüzünü gösterdiğinde hava aniden ısındı.",
+                "B": "Yemekleri ısıtmak için mikrodalga fırın kullanabilirsin.",
+                "C": "Sözleri karşısındakini derinden etkiledi, kalbini ısıttı.",
+                "D": "İnsanlar soğuk havalarda genellikle birbirine daha az ısınır.",
+                "E": "Sobayı yakarak odayı ısıttık."
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "<p>Şiirlerinde ölçüye, uyağa büyük özen göstermiş, sade bir dil kullanmış; ...................... bunlar onu iyi bir şair saymamız için yeterli olamıyor.</p><p><b>Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilemez?</b></p>",
+            "options": {
+                "A": "ne var ki",
+                "B": "ne yazık ki",
+                "C": "gel gör ki",
+                "D": "oysaki",
+                "E": "varsayalım ki"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "<p>I. Ağlar, balıkçılar tarafından bir bir çekiliyordu.</p><p>II. Satılan mallar kaliteli olmadığından müşteriler dükkandan çekiliyordu.</p><p>III. Derste alınan notlar akşamları temize çekiliyordu.</p><p>IV. Yolda kalan kamyon bir traktörle çekildi.</p><p><b>Yukarıdaki numaralanmış cümlelerin hangilerinde `çekilmek` sözcüğünün anlamı birbirine en yakındır?</b></p>",
+            "options": {
+                "A": "I ve III",
+                "B": "I ve IV",
+                "C": "II ve III",
+                "D": "II ve IV",
+                "E": "III ve IV"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "question": "<p>Gelmeyeceğini söyleseydin, <b><u>boşu boşuna</u></b> akşama kadar beklemezdim.</p><p><b>Altı çizili bölümün bu cümleye kattığı anlam aşağıdakilerin hangisinde vardır?</b></p>",
+            "options": {
+                "A": "Çok çalıştı; ancak yine de sınıfı geçemedi.",
+                "B": "Bu zarflar bugün mutlaka postaya verilmeli.",
+                "C": "Parasının çalındığını sanıp yok yere ağladı.",
+                "D": "Erken gitti, belki de bugün hiç gelmeyecek.",
+                "E": "Elbette yardım edeceğim, ne de olsa kardeşim."
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "question": "<p>I. Tepsideki pastayı beşe ayırıp tabaklara koydu.</p><p>II. Dün yaptığı tatlılardan bana da ayırmıştı.</p><p>III. Çocuklarımın hepsini severim, birini diğerinden ayırmam.</p><p>IV. Laf taşıyarak dostları birbirinden ayırmıştı.</p><p>V. Yaşı on yediyi bulmuş, iyiyle kötüyü ayırabilecek olgunluğa erişmişti.&nbsp;</p><p><b>Yukarıdaki numaralanmış cümlelerde `ayırmak` sözcüğü kaç değişik anlamda kullanılmıştır?</b></p>",
+            "options": {
+                "A": "1",
+                "B": "2",
+                "C": "3",
+                "D": "4",
+                "E": "5"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "<p><b>`lsıtmak` sözcüğü aşağıdaki cümlelerin hangisinde mecaz anlamda kullanılmıştır?</b></p>",
+            "options": {
+                "A": "Güneş yüzünü gösterdiğinde hava aniden ısındı.",
+                "B": "Yemekleri ısıtmak için mikrodalga fırın kullanabilirsin.",
+                "C": "Sözleri karşısındakini derinden etkiledi, kalbini ısıttı.",
+                "D": "İnsanlar soğuk havalarda genellikle birbirine daha az ısınır.",
+                "E": "Sobayı yakarak odayı ısıttık."
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "<p>Şiirlerinde ölçüye, uyağa büyük özen göstermiş, sade bir dil kullanmış; ...................... bunlar onu iyi bir şair saymamız için yeterli olamıyor.</p><p><b>Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilemez?</b></p>",
+            "options": {
+                "A": "ne var ki",
+                "B": "ne yazık ki",
+                "C": "gel gör ki",
+                "D": "oysaki",
+                "E": "varsayalım ki"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "<p>I. Ağlar, balıkçılar tarafından bir bir çekiliyordu.</p><p>II. Satılan mallar kaliteli olmadığından müşteriler dükkandan çekiliyordu.</p><p>III. Derste alınan notlar akşamları temize çekiliyordu.</p><p>IV. Yolda kalan kamyon bir traktörle çekildi.</p><p><b>Yukarıdaki numaralanmış cümlelerin hangilerinde `çekilmek` sözcüğünün anlamı birbirine en yakındır?</b></p>",
+            "options": {
+                "A": "I ve III",
+                "B": "I ve IV",
+                "C": "II ve III",
+                "D": "II ve IV",
+                "E": "III ve IV"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "question": "<p>Gelmeyeceğini söyleseydin, <b><u>boşu boşuna</u></b> akşama kadar beklemezdim.</p><p><b>Altı çizili bölümün bu cümleye kattığı anlam aşağıdakilerin hangisinde vardır?</b></p>",
+            "options": {
+                "A": "Çok çalıştı; ancak yine de sınıfı geçemedi.",
+                "B": "Bu zarflar bugün mutlaka postaya verilmeli.",
+                "C": "Parasının çalındığını sanıp yok yere ağladı.",
+                "D": "Erken gitti, belki de bugün hiç gelmeyecek.",
+                "E": "Elbette yardım edeceğim, ne de olsa kardeşim."
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "question": "<p>I. Tepsideki pastayı beşe ayırıp tabaklara koydu.</p><p>II. Dün yaptığı tatlılardan bana da ayırmıştı.</p><p>III. Çocuklarımın hepsini severim, birini diğerinden ayırmam.</p><p>IV. Laf taşıyarak dostları birbirinden ayırmıştı.</p><p>V. Yaşı on yediyi bulmuş, iyiyle kötüyü ayırabilecek olgunluğa erişmişti.&nbsp;</p><p><b>Yukarıdaki numaralanmış cümlelerde `ayırmak` sözcüğü kaç değişik anlamda kullanılmıştır?</b></p>",
+            "options": {
+                "A": "1",
+                "B": "2",
+                "C": "3",
+                "D": "4",
+                "E": "5"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "<p><b>`lsıtmak` sözcüğü aşağıdaki cümlelerin hangisinde mecaz anlamda kullanılmıştır?</b></p>",
+            "options": {
+                "A": "Güneş yüzünü gösterdiğinde hava aniden ısındı.",
+                "B": "Yemekleri ısıtmak için mikrodalga fırın kullanabilirsin.",
+                "C": "Sözleri karşısındakini derinden etkiledi, kalbini ısıttı.",
+                "D": "İnsanlar soğuk havalarda genellikle birbirine daha az ısınır.",
+                "E": "Sobayı yakarak odayı ısıttık."
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "<p>Şiirlerinde ölçüye, uyağa büyük özen göstermiş, sade bir dil kullanmış; ...................... bunlar onu iyi bir şair saymamız için yeterli olamıyor.</p><p><b>Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilemez?</b></p>",
+            "options": {
+                "A": "ne var ki",
+                "B": "ne yazık ki",
+                "C": "gel gör ki",
+                "D": "oysaki",
+                "E": "varsayalım ki"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "<p>I. Ağlar, balıkçılar tarafından bir bir çekiliyordu.</p><p>II. Satılan mallar kaliteli olmadığından müşteriler dükkandan çekiliyordu.</p><p>III. Derste alınan notlar akşamları temize çekiliyordu.</p><p>IV. Yolda kalan kamyon bir traktörle çekildi.</p><p><b>Yukarıdaki numaralanmış cümlelerin hangilerinde `çekilmek` sözcüğünün anlamı birbirine en yakındır?</b></p>",
+            "options": {
+                "A": "I ve III",
+                "B": "I ve IV",
+                "C": "II ve III",
+                "D": "II ve IV",
+                "E": "III ve IV"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "question": "<p>Gelmeyeceğini söyleseydin, <b><u>boşu boşuna</u></b> akşama kadar beklemezdim.</p><p><b>Altı çizili bölümün bu cümleye kattığı anlam aşağıdakilerin hangisinde vardır?</b></p>",
+            "options": {
+                "A": "Çok çalıştı; ancak yine de sınıfı geçemedi.",
+                "B": "Bu zarflar bugün mutlaka postaya verilmeli.",
+                "C": "Parasının çalındığını sanıp yok yere ağladı.",
+                "D": "Erken gitti, belki de bugün hiç gelmeyecek.",
+                "E": "Elbette yardım edeceğim, ne de olsa kardeşim."
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "question": "<p>I. Tepsideki pastayı beşe ayırıp tabaklara koydu.</p><p>II. Dün yaptığı tatlılardan bana da ayırmıştı.</p><p>III. Çocuklarımın hepsini severim, birini diğerinden ayırmam.</p><p>IV. Laf taşıyarak dostları birbirinden ayırmıştı.</p><p>V. Yaşı on yediyi bulmuş, iyiyle kötüyü ayırabilecek olgunluğa erişmişti.&nbsp;</p><p><b>Yukarıdaki numaralanmış cümlelerde `ayırmak` sözcüğü kaç değişik anlamda kullanılmıştır?</b></p>",
+            "options": {
+                "A": "1",
+                "B": "2",
+                "C": "3",
+                "D": "4",
+                "E": "5"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "<p><b>`lsıtmak` sözcüğü aşağıdaki cümlelerin hangisinde mecaz anlamda kullanılmıştır?</b></p>",
+            "options": {
+                "A": "Güneş yüzünü gösterdiğinde hava aniden ısındı.",
+                "B": "Yemekleri ısıtmak için mikrodalga fırın kullanabilirsin.",
+                "C": "Sözleri karşısındakini derinden etkiledi, kalbini ısıttı.",
+                "D": "İnsanlar soğuk havalarda genellikle birbirine daha az ısınır.",
+                "E": "Sobayı yakarak odayı ısıttık."
+            },
+            "correctAnswer": "C"
+        }
+    ]
+}
